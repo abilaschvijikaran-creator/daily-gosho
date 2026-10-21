@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.wrangler/
+*.log
+.env
+.env.*
+e2e-screenshots/
+.dev.vars
+*.pem
